@@ -1,9 +1,13 @@
-### 👋 Hi, I'm yp05327
-
 **About Me:**
 
 - 📘 **Education**: Graduacted from Shanghai University and got master's degree from ShinShu University.
-- 🔧 **Work Experience**: Main job is cloud infrastructure engineer, and also maintainer of [Gitea](https://gitea.com/)
+- 🔧 **Work Experience**: Main job is cloud infrastructure engineer, and also the main maintainer of [Gitea](https://gitea.com/)
+- 🎯 **Interests**: Full-stack, DevOps, AI, Decompiling
+
+**Technic:**
+- **Programming Languages**: Familiar with Golang and Python. Know about JS, C, C++ and so on.
+- **DevOps**: Git, Docker, Kubernetes, GitHub Actions, Bicep
+- **Others**: Arduino, Decompiling tools
 
 ### Stats on GitHub
 
