@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi, I'm yp05327
 
-<!--
-**yp05327/yp05327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me:**
 
-Here are some ideas to get you started:
+- 📘 **Education**: Graduacted from Shanghai University and got master's degree from ShinShu University.
+- 🔧 **Work Experience**: Main job is cloud infrastructure engineer, and also maintainer of [Gitea](https://gitea.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats on GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gray-eta-55.vercel.app/api?username=yp05327&show_icons=true&theme=dark&border_color=30363d">
+  <img alt="lng2020's GitHub Stats." src="https://github-readme-stats-gray-eta-55.vercel.app/api?username=yp05327&show_icons=true&theme=default">
+</picture>
