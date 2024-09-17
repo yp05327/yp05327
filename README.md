@@ -1,13 +1,14 @@
 **About Me:**
 
-- 📘 **Education**: Graduacted from Shanghai University and got master's degree from ShinShu University.
-- 🔧 **Work Experience**: Main job is cloud infrastructure engineer, and also the main maintainer of [Gitea](https://gitea.com/)
-- 🎯 **Interests**: Full-stack, DevOps, AI, Decompiling
+- 📘 **Education**: Graduacted from Shanghai University and master's degree from ShinShu University.
+- 💼 **Work Experience**: Main job is cloud infrastructure engineer. Maintainer of [Gitea](https://gitea.com/). Tester of [Gitea Cloud](https://about.gitea.com/products/cloud/) and [Gitea EE](https://about.gitea.com/products/gitea-enterprise/).
+- 🎯 **Interests**: Full-stack, DevOps, AI, Decompiling, Security
+- 🏳️‍🌈 **Languarge**: Chinese (Native), Japanese (Business), English (Not good😆)
 
 **Technic:**
-- **Programming Languages**: Familiar with Golang and Python. Know about JS, C, C++ and so on.
+- **Programming Languages**: Familiar with Golang and Python. Know about SQL, JS, C, C++ and so on.
 - **DevOps**: Git, Docker, Kubernetes, GitHub Actions, Bicep
-- **Others**: Arduino, Decompiling tools
+- **Others**: Arduino, Decompiling tools, OpenAI
 
 ### Stats on GitHub
 
