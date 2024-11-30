@@ -16,3 +16,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gray-eta-55.vercel.app/api?username=yp05327&show_icons=true&theme=dark&border_color=30363d">
   <img alt="lng2020's GitHub Stats." src="https://github-readme-stats-gray-eta-55.vercel.app/api?username=yp05327&show_icons=true&theme=default">
 </picture>
+
+### GitRoll
+<a href="https://gitroll.io/profile/uE0mJ2m9N6CgD3wav0OLiEJwHhO83" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uE0mJ2m9N6CgD3wav0OLiEJwHhO83?theme=dark" alt="GitRoll Profile Badge"/></a>
