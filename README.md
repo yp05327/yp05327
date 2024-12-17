@@ -1,7 +1,7 @@
 **About Me:**
 
 - 📘 **Education**: Graduacted from ShangHai University and master's degree from ShinSyu University.
-- 💼 **Work Experience**: Main job is cloud infrastructure engineer in Japan. Contributor of [Gitea](https://gitea.com/). Used to be a maintainer of [Gitea](https://gitea.com/) until 2024-12-16 (see https://github.com/go-gitea/gitea/pull/32820). Tested [Gitea Cloud](https://about.gitea.com/products/cloud/) and [Gitea EE](https://about.gitea.com/products/gitea-enterprise/)
+- 💼 **Work Experience**: Main job is cloud infrastructure engineer in Japan. Contributor of [Gitea](https://gitea.com/). Used to be maintainer and member of [Gitea](https://gitea.com/) until 2024-12-16 (see https://github.com/go-gitea/gitea/pull/32820). Tested [Gitea Cloud](https://about.gitea.com/products/cloud/) and [Gitea EE](https://about.gitea.com/products/gitea-enterprise/)
 - 🎯 **Interests**: Full-stack, DevOps, AI, Decompiling, Security
 - 🏳️‍🌈 **Language**: Chinese (Native), Japanese (Business), English (a little 😆)
 
